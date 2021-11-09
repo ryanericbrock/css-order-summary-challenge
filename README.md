@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution-url](https://github.com/ryanericbrock/css-order-summary-challenge)
+- Solution URL: [solution-url](https://ryanericbrock.github.io/css-order-summary-challenge/)
 
 ## My process
 1. Background Image
