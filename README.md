@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](order-screenshot.png)
+![screenshot](order-screenshot.PNG)
 
 ### Links
 
@@ -59,7 +59,7 @@ In future projects, I would like to focus on trying to neaten up my style sheet 
 
 ### Useful resources
 
-- [w3 school](https://www.w3schools.com/css/)
+- [W3 School](https://www.w3schools.com/css/)
 
 ## Author
 
